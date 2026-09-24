@@ -1,2 +1,48 @@
 # ecommerce-sales-analysis
-E-commerce sales analysis using SQL and Power BI
+
+## Business Problem
+An e-commerce business wants to understand its sales and profitability performance across different regions,product categories, products, customers, and months.
+
+The objective of this analysis is to identify key sales drivers, understand regional and product performance,evaluate the relationship between discounts and  profitability, and identify high-value customers.
+
+The analysis uses SQL and PowerBI to transform raw sales data into meaningful business insights that can support data-driven decision-making.
+
+## Key Business Questions
+
+- Which region generates the highest sales and profit?
+- Which categories contribute most to revenue?
+- Which products perform best and worst?
+- How does profitability vary by region?
+- How are discounts associated with profit margins?
+- Who are the top customers by sales and profit?
+- How do sales change month to month?
+- Which products lead sales in each region?
+- Which region performs best for each category?
+
+## Tools Used
+- MySQL
+- Power BI
+- Excel
+
+## Dashboard
+
+The Power BI dashboard provides an interactive view of:
+
+- Sales and profit KPIs
+- Regional performance
+- Category performance
+- Product performance
+- Monthly sales trends
+- Customer performance
+- Discount vs Profitability
+- Profit Margins
+- Quantity sold
+
+## Key Insights
+
+- West generated the highest sales and profit among all regions.
+- Electronics was the largest sales-generating category.
+- Laptop generated the highest sales and profit among products.
+- Backpack had the highest profit margin at 23.73%.
+- Higher discount levels were associated with lower profit margins, declining from 28.59% at 0% discount to 9.25% at 20% discount.
+
