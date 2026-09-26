@@ -59,3 +59,21 @@ The Power BI dashboard provides an interactive view of:
 - Identify and retain high-value customers through targeted offers and customer engagement strategies.
 - Analyze monthly sales trends to support inventory and sales planning.
 
+## Project Structure
+
+```text
+ecommerce-sales-analysis/
+├── Data/
+│   └── E-commerce-sales.xlsx
+├── Power BI/
+│   └── E-COMMERCE.pbix
+├── Screenshots/
+│   └── Dashboard.png
+├── sql/
+│   ├── 01_sales_analysis.sql
+│   ├── 02_customer_analysis.sql
+│   └── 03_product_analysis.sql
+└── README.md
+
+
+
