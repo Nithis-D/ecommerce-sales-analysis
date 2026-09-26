@@ -19,6 +19,9 @@ The analysis uses SQL and PowerBI to transform raw sales data into meaningful bu
 - Which products lead sales in each region?
 - Which region performs best for each category?
 
+## Dataset
+The Dataset is an Excel file containing E-commerce information,including order dates, customers, products, categories, regions, quantities, discounts, sales and profit.
+
 ## Tools Used
 - MySQL
 - Power BI
@@ -45,4 +48,12 @@ The Power BI dashboard provides an interactive view of:
 - Laptop generated the highest sales and profit among products.
 - Backpack had the highest profit margin at 23.73%.
 - Higher discount levels were associated with lower profit margins, declining from 28.59% at 0% discount to 9.25% at 20% discount.
+
+## Business Recommendations
+
+- Review regional performance to identify opportunities for improving sales in lower-performing regions.
+- Focus on high-performing products such as Laptop while monitoring the performance of lower-selling products.
+- Monitor discount levels carefully because higher discounts were associated with lower profit margins.
+- Identify and retain high-value customers through targeted offers and customer engagement strategies.
+- Analyze monthly sales trends to support inventory and sales planning.
 
