@@ -27,6 +27,15 @@ The Dataset is an Excel file containing E-commerce information,including order d
 - Power BI
 - Excel
 
+## Project Highlights
+
+- Analyzed 1,200 e-commerce orders using MySQL,Excel, and Power BI.
+- Built SQL queries using aggregation, grouping, sorting, and window functions.
+- Created and interactive Power BI dashboard with KPI cards, charts, and slicers.
+- Analyzed regional, category, product, customer, and monthly sales performance.
+- Examined the relationship between discount levels and profit margins.
+- Identified top-performing products, regions and customers.
+
 ## Dashboard
 
 The Power BI dashboard provides an interactive view of:
@@ -74,15 +83,6 @@ ecommerce-sales-analysis/
 │   ├── 02_customer_analysis.sql
 │   └── 03_product_analysis.sql
 └── README.md
-
-## Project Highlights
-
-- Analyzed 1,200 e-commerce orders using MySQL,Excel, and Power BI.
-- Built SQL queries using aggregation, grouping, sorting, and window functions.
-- Created and interactive Power BI dashboard with KPI cards, charts, and slicers.
-- Analyzed regional, category, product, customer, and monthly sales performance.
-- Examined the relationship between discount levels and profit margins.
-- Identified top-performing products, regions and customers.
 
 
 
