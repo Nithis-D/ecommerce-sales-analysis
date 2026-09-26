@@ -1,4 +1,4 @@
-# ecommerce-sales-analysis
+# E-commerce-sales-analysis
 
 ## Business Problem
 An e-commerce business wants to understand its sales and profitability performance across different regions,product categories, products, customers, and months.
