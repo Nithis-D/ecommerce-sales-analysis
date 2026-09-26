@@ -31,6 +31,8 @@ The Dataset is an Excel file containing E-commerce information,including order d
 
 The Power BI dashboard provides an interactive view of:
 
+![E-commerce sales Dashboard](screenshots/Dashboard.png)
+
 - Sales and profit KPIs
 - Regional performance
 - Category performance
